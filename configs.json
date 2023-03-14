@@ -1,18 +1,18 @@
 {
 "bot":{
-"token": "",
+"token": "MTAxNzcyOTIxOTIzNDYzNTgwNw.G6i2Hn.YsCDwbT8M57m_OsiqMeTGxkX76cUYMl8geAfAg",
 "prefix": "!",
-"developer": "782920172113625140", 
+"developer": "792680841205645342", 
 "mongooseConnectLink": ""
 },
 
 "roles":{
-"premiumRole": "",
-"moderatorRole": ""
+"premiumRole": "1014626143107829791",
+"moderatorRole": "1014626143107829791"
 },
 
 "channels": {
-"uptimeLog": "799711413391327324"
+"uptimeLog": "1085190435057705050"
 },
 
 "emojis":{
